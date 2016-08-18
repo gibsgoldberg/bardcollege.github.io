@@ -46,24 +46,24 @@ img{
 
 .textbox {
     width:70%;
-    color: white;
+    color: blue;
     font-size: 110%;
-    background:gray;
+    background:pink;
     padding: 4px;
-    border:1px solid white;
+    border:1px green;
 }
 
 .button {
-    background: white;
+    background: pink;
     font-size: 110%;
     color:gray;
     padding: 4px;
-    border:2px solid white;
+    border:2px pink;
 }
 
 .redacted{
-    background-color: rgb(215, 206, 199);
-    color:  rgb(215, 206, 199);
+    background-color: rgb(3, 89, 299);
+    color:  rgb(0, 100, 129);
 }
 
 .half{
